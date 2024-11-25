@@ -31,7 +31,3 @@ app.listen(PORT, () => {
 });
 
 
-
-// MONGO_URI=mongodb+srv://user:user@cluster0.2l8rd.mongodb.net/silksew
-// JWT_SECRET=this_is_my_secret_key
-// PORT=5000
