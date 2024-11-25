@@ -29,3 +29,9 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+
+
+// MONGO_URI=mongodb+srv://user:user@cluster0.2l8rd.mongodb.net/silksew
+// JWT_SECRET=this_is_my_secret_key
+// PORT=5000
